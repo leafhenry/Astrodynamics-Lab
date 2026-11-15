@@ -367,6 +367,3 @@ Walker Delta / Star 几何与相位、无效配置、多星 TLE、共同 UTC 偏
 - `docs/images/`：README 使用的真实软件截图。
 
 `.venv/`、`.python/`、`.tools/`、`.uv-cache/`、`.reference/` 是本地环境或开发参考，已被 `.gitignore` 排除。
-# Astrodynamics Lab
- 
- 
